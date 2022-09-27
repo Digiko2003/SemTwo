@@ -1,0 +1,14 @@
+234|Los juegos del hambre|Suzanne Collings|Oceano travesia|10|299.0
+654|Angeles caidos|Susan Ee|Oceano travesia|15|350.0
+646|The eminence in the shadow|Akeno Yusagi|One peace books|24|13.0
+158|Harry Potter y el Prisionero de Askaban|J.K. Rowling|Salamandra|16|200.0
+197|El Principito|Antoine de Saint-Exupery|Orbilibro|15|159.0
+178|1984|George Orwell|Planeta Mexicana|20|318.0
+189|Rebelion en la Granja|George Orwell|Penguin Random House|13|124.0
+201|El Kybalion|Los Tres Iniciados|Sirio|26|300.0
+148|Ciudades de Papel|John Green|Nube de Tinta|25|400.0
+192|El Laberinto de la Soledad|Octavio Paz|Fondo de Cultura Economica|10|350.0
+194|Gung-Fu chino: el arte filosofico de la defensa personal|Bruce Lee|Black Belt Books|1|320.0
+174|El Tao Del Jeet Kune Do|Bruce Lee|Eyras|4|492.0
+180|Doors of Perception|Aldous Huxley|Turtleback Books|5|299.0
+342|Escepticos|Carlos|Books|12|322.0
